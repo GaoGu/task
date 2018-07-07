@@ -1,0 +1,1 @@
+尽量使用 $(document.body).on(‘click’, ‘#updateName’, function(){ .. })
